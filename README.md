@@ -82,9 +82,7 @@
 <p align="center">
 <a href="mailto:fayoumi.youssef@hotmail.com">
   <img align="center" alt="Email me" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg">
-</a> &nbsp;&nbsp;
+</a>
 <a href="https://linkedin.com/in/fayoumi-youssef" target="_blank">
   <img align="center" alt="LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg">
-</a> &nbsp;&nbsp;
-
-<hr>
+</a>
